@@ -2,8 +2,7 @@
 
 ### the hardworking rookie~ 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning vue and typescript
 - 😄 Pronouns: sroxck or sims
-- ⚡ Fun fact: learning
+
 
