@@ -1,14 +1,6 @@
 # Hi ~ 🧑🏻‍💻 
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sroxck&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </picture>
 
