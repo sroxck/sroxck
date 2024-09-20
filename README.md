@@ -9,7 +9,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sroxck&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </picture>
 
 我是一名前端开发人员<工作地点在北京。- >
