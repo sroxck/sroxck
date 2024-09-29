@@ -72,7 +72,7 @@ skills:
   </a>
 </p> -->
 
-**Open Source...**
+**近期活动...**
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
