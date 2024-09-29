@@ -1,4 +1,4 @@
-# Hi ~ 🧑🏻‍💻 
+# Hi ~ 🧑🏻‍💻
 
 <picture>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sroxck&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
@@ -32,7 +32,6 @@ skills:
 <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-
 </p>
 
 **Backend Developer (maybe)**
@@ -46,7 +45,6 @@ skills:
   <img alt="Express"
     src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
-
 
 **DevOps**
 
@@ -77,7 +75,3 @@ skills:
 **Open Source...**
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
