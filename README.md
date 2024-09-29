@@ -1,4 +1,4 @@
-# Hi ~ 🧑🏻‍💻
+# Hi ~ I'm Sroxck🧑🏻‍💻
 
 <picture>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sroxck&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
@@ -8,7 +8,6 @@
 
 渴望成为一名独立的全栈开发者。目前在职中,准备找新工作
 
-skills:
 
 **Web Developer**
 
