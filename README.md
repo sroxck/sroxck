@@ -75,7 +75,7 @@ skills:
 **近期活动...**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
-2. ❗ Opened issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
-3. ❗ Opened issue [#71](https://github.com/antfu/vscode-browse-lite/issues/71) in [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)
+1. 🔒 Closed issue [#71](https://github.com/antfu/vscode-browse-lite/issues/71) in [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)
+2. 🔒 Closed issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
+3. ❗ Opened issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
 <!--END_SECTION:activity-->
