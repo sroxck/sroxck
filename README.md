@@ -1,17 +1,15 @@
 # Hi ~ I'm Sroxck🧑🏻‍💻
 
-<picture>
+<!-- <picture>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sroxck&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</picture>
+</picture> -->
 
 我是一名前端开发人员<工作地点在北京>
 
-<p align="center">
-  「<strong><samp> <strong>渴望成为一名独立的全栈开发者。目前已离职,正在找新工作中</strong> </samp></strong>」
-</p>
+渴望成为一名独立的全栈开发者。目前已离职,正在找新工作中
 
-<br />
-**前端技术栈**
+
+**Web Developer**
 
 <p>
   <img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
@@ -80,3 +78,9 @@
 2. 🔒 Closed issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
 3. ❗ Opened issue [#465](https://github.com/Innei/Shiro/issues/465) in [Innei/Shiro](https://github.com/Innei/Shiro)
 <!--END_SECTION:activity-->
+
+<p align="center">
+  「<strong><samp> <strong>Sroxck 2026</strong> </samp></strong>」
+</p>
+
+<br />
